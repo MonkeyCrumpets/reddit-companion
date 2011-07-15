@@ -1,3 +1,5 @@
+This version of reddit compainion features a few tweaks to the look and feel and is designed to accompany the Chrome theme "Desaturated Darksmooth" by hsn, available at http://hsn.deviantart.com/art/Desaturated-DarkSmooth-140895069
+
 # reddit companion
 
 reddit companion is a Chrome extension that integrates reddit into the browser.
